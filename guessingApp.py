@@ -27,4 +27,4 @@ while guess_count < number_of_guess:
         break
 
 else:
-    print(f"You lost, the secret number is {secret_number} 😜")
+    print(f"You lost, the secret number is {secret_number}")
